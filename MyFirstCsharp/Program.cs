@@ -23,7 +23,7 @@ namespace MyFirstCsharp
                     Array.Sort(substr, n, m - n + 1);
                     Array.Reverse(substr, n, m - n + 1);
                     Console.WriteLine(substr);
-                    Console.Write("Hello");
+                    Console.Write("Hello New change");
                 }
             }           
         }
